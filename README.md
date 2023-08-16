@@ -1,1 +1,1 @@
-# ALX-BACKEND-JAVASCRIPT
+# Python Variable annotations
